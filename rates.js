@@ -109,4 +109,4 @@ window.ERC = {
 window.LEAD_TO = "leads@example.com";
 
 // Current MVR
-window.CURRENT_MVR = 0.0859;
+window.CURRENT_MVR = 0.0859; // 8.59%
